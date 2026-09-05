@@ -1,0 +1,37 @@
+METROPOLITAN CLINICAL LABORATORIES
+100 Healthcare Way, Suite 400
+CLIA ID: 99D0876543 | Medical Director: Dr. Alan Grant, MD
+
+PATIENT CLINICAL RECORD
+Patient Name: John Doe
+Date of Birth: 1981-04-12 (Age: 45)
+Sex: Male
+Ordering Physician: Dr. Evelyn Reed, MD
+Specimen Collection: 2026-09-05 08:30 AM
+Specimen Received: 2026-09-05 09:15 AM
+Report Status: Final Verified
+
+-----------------------------------------------------------------------------------------
+COMPLETE BLOOD COUNT (CBC) & AUTOMATED DIFFERENTIAL
+Test Description                Result   Units       Reference Range     Status
+-----------------------------------------------------------------------------------------
+Hemoglobin                      12.4     g/dL        12.0 - 16.0         NORMAL
+White Blood Cell Count (WBC)    11.8     x10^9/L     4.0 - 11.0          HIGH
+Platelets                       250      x10^9/L     150 - 450           NORMAL
+Hematocrit                      37.5     %           36.0 - 48.0         NORMAL
+Red Blood Cell Count (RBC)      4.6      x10^12/L    4.2 - 5.8           NORMAL
+
+BIOCHEMISTRY & METABOLIC PANEL
+Test Description                Result   Units       Reference Range     Status
+-----------------------------------------------------------------------------------------
+Fasting Blood Glucose           105      mg/dL                           NOT CLASSIFIED
+* Note: Analytical assay completed. Source reference range omitted per laboratory equipment protocol B-12.
+Serum Creatinine                0.95     mg/dL       0.70 - 1.30         NORMAL
+Blood Urea Nitrogen (BUN)       16.0     mg/dL       7.0 - 20.0          NORMAL
+Potassium                       4.2      mEq/L       3.5 - 5.1           NORMAL
+Sodium                          140      mEq/L       136 - 145           NORMAL
+
+-----------------------------------------------------------------------------------------
+Medication Mention: Patient prescribed Penicillin V 500mg PO BID on 2026-08-30.
+Clinical Note: Please review recorded drug sensitivities with clinician prior to continuation.
+End of Laboratory Report.
